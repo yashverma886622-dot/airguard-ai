@@ -1,0 +1,10 @@
+{
+  "name": "AirGuard AI",
+  "short_name": "AirGuard AI",
+  "description": "Real-time pollution and health advisory platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8f2ef",
+  "theme_color": "#0f766e",
+  "icons": []
+}
