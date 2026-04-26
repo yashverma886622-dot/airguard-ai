@@ -105,6 +105,8 @@ npm run preview
 
 ## Screenshots
 
+## Screenshots
+
 ### Home Page
 
 ![Home 1](./screenshots/home-1.png)
@@ -112,11 +114,12 @@ npm run preview
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-1.png)
+![Dashboard](./screenshots/dashboard-2.png)
 
 ### Favorites
 
-![Favorites](./screenshots/favorites.png)
+![Favourites](./screenshots/favourites.png)
 
 ---
 
