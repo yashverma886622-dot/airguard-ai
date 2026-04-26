@@ -112,12 +112,11 @@ npm run preview
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard-1.png)
-![Dashboard](./screenshots/dashboard-2.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Favorites
 
-![Favorites](./screenshots/favourites.png)
+![Favorites](./screenshots/favorites.png)
 
 ---
 
